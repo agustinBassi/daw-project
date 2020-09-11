@@ -8,7 +8,7 @@
 
 //=======[ Settings, Imports & Data ]==========================================
 
-let user = "TypesScript Users!";
+let user = "TypesScript DAW!";
 
 //=======[ Main module code ]==================================================
 
